@@ -1851,10 +1851,30 @@ body {
 .cid-qNELUVmUTg H2 {
   color: #232323;
 }
+.cid-qNELUVmUTg .mbr-section-subtitle {
+  color: #242424;
+}
+.cid-qNELUVmUTg .mbr-text {
+  color: #242424;
+}
 .cid-qNEuuVCweh {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: #ffffff;
+}
+.cid-qP0JRjC6t2 {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qP0JRjC6t2 H2 {
+  color: #232323;
+}
+.cid-qP0JRjC6t2 .mbr-section-subtitle {
+  color: #242424;
+}
+.cid-qP0JRjC6t2 .mbr-text {
+  color: #242424;
 }
 .cid-qObb9xGtyB {
   background: #ffffff;
@@ -1877,6 +1897,80 @@ body {
 @media (max-width: 768px) {
   .cid-qObb9xGtyB .image-block {
     width: 100% !important;
+  }
+}
+.cid-qP0Hc5qRT3 {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qP0Hc5qRT3 H2 {
+  color: #232323;
+}
+.cid-qP0Hc5qRT3 .mbr-section-subtitle {
+  color: #242424;
+}
+.cid-qP0Hc5qRT3 .mbr-text {
+  color: #242424;
+}
+.cid-qP0voX5jRf {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qP0voX5jRf h2 {
+  text-align: left;
+}
+.cid-qP0voX5jRf h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-qP0voX5jRf p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qP0voX5jRf .aside-content {
+  flex-basis: 100%;
+}
+.cid-qP0voX5jRf .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-qP0voX5jRf .media {
+  margin: initial;
+  align-items: center;
+}
+.cid-qP0voX5jRf .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-qP0voX5jRf .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-qP0voX5jRf .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-qP0voX5jRf .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qP0voX5jRf .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-qP0voX5jRf .card-img span {
+    font-size: 40px !important;
   }
 }
 .cid-qObbbpkqe6 {
