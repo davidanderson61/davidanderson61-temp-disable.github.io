@@ -4,7 +4,7 @@
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 152,
-    "versionPublish": "4.7.0",
+    "versionPublish": "4.7.1",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -22,7 +22,7 @@
         "display2Size": "2",
         "display5Font": "Rubik",
         "display5Size": "1.6",
-        "display7Font": "Rubik",
+        "display7Font": "Lato",
         "display7Size": "1.2",
         "display4Font": "Rubik",
         "display4Size": 1,
