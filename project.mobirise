@@ -4,7 +4,7 @@
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 152,
-    "versionPublish": "4.7.2",
+    "versionPublish": "5.6.8",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -44,7 +44,20 @@
     "favicon": "@PROJECT_PATH@/assets/images/my64x64-64x64.png",
     "noImageResize": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-96629989-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-96629989-1');\r\n</script>\r\n",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteFonts": [
+      {
+        "css": "'Lato', sans-serif",
+        "name": "Lato",
+        "url": "https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i"
+      },
+      {
+        "css": "'Rubik', sans-serif",
+        "name": "Rubik",
+        "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
+      }
+    ],
+    "imageResize": true
   },
   "pages": {
     "index.html": {
